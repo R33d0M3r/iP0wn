@@ -1,1 +1,1 @@
- This python script is bruteforce tenda routes
+ This python script is bruteforce tenda router
